@@ -363,18 +363,6 @@ var treeData = [
         ]
 
       },
-
-     {
-            "name": "Management"
-            ,"_children": [
-              {  
-                "name":   "Center of Excellence Best Practices",
-                 "url": "https://www.youtube.com/v/N5XNIuVdBf0"
-              }
- 
-            ]
- 
-     },
 {
             "name": "Marketing"
             ,"_children": [
