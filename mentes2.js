@@ -1,10 +1,10 @@
 var treeData = [
   {
-    "name": "SFDC Training",
+    "name": "Mentes Brillantes",
     "parent": "null",
     "children": [
       {
-        "name": "Architect"
+        "name": "Temporada 1"
         ,"children": [
           {
             "name": "Salesforce Technical Archtecture",
@@ -140,7 +140,7 @@ var treeData = [
         ]
       },
       {
-        "name": "Admin"
+        "name": "Temporada 2"
         ,"_children": [
           {
             "name": "Salesforce Security Model"
@@ -254,7 +254,7 @@ var treeData = [
 
       },
       {
-        "name": "Developer"
+        "name": "Temporada 3"
         ,"_children": [
           {
             "name": "Develop by clicks (config) vs code"
