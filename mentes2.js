@@ -247,53 +247,7 @@ var treeData = [
 
 
           },
-          {
-            "name": "Service Cloud"
-            ,"_children": [
-              {  
-                "name":   "Get Started with Service Cloud Administration",
-                 "url": "https://www.youtube.com/v/fJFlIqtlscI"
-              }
- 
-            ]
- 
-          },
-          {
-            "name": "Marketing Cloud"
-            ,"_children": [
-              {  
-                "name":   "Marketing Cloud",
-                 "url": "https://www.youtube.com/v/joXU0YgKu4Q"
-              }
- 
-            ]
- 
-          },
-          {
-            "name": "Communities"
-            ,"_children": [
-              {  
-                "name":   "Communities",
-                 "url": "https://www.youtube.com/v/iVS0p7xAVLQ"
-              }
- 
-            ]
- 
- 
-
-          },
-          {
-            "name": "Data Quality"
-            ,"_children": [
-              {  
-                "name":   "Enforce Data Quality",
-                 "url": "https://www.youtube.com/v/lonkyrhHiNs"
-              }
- 
-            ]
- 
-          },
-         
+                  
           {
             "name": "Release Management"
             ,"_children": [
