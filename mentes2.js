@@ -8,7 +8,7 @@ var treeData = [
         ,"children": [
           {
             "name": "Pablo Valenzuela",
-            "parent": "Architect",
+            "parent": "Temporada 1",
             "_children": [
               {  
                 "name":   "Pablo Valenzuela",
@@ -99,28 +99,8 @@ var treeData = [
  
 
           },
-          {
-            "name": "Communities"
-            ,"_children": [
-              {  
-                "name":   "Communities",
-                 "url": "https://www.youtube.com/v/iVS0p7xAVLQ"
-              }
- 
-            ]
- 
-          },
-          {
-            "name": "Single Sign-on (SSO)"
-            ,"_children": [
-              {  
-                "name":   "SSO (Single Sign-on)",
-                 "url": "https://www.youtube.com/v/-jm5_PAxtSc"
-              }
- 
-            ]
- 
-          },
+          
+          
           {
             "name": "Integration"
             ,"_children": [
