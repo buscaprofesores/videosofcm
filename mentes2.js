@@ -182,40 +182,7 @@ var treeData = [
             ]
  
           },
-          {
-            "name": "Communities"
-            ,"_children": [
-              {  
-                "name":   "Communities",
-                 "url": "https://www.youtube.com/v/iVS0p7xAVLQ"
-              }
- 
-            ]
- 
-
-          },
-          {
-            "name": "Single Sign-on (SSO)"
-            ,"_children": [
-              {  
-                "name":   "SSO (Single Sign-on)",
-                 "url": "https://www.youtube.com/v/-jm5_PAxtSc"
-              }
- 
-            ]
- 
-          },
-          {
-            "name": "Release Management"
-            ,"_children": [
-              {  
-                "name":   "Introduction to Salesforce Release Management",
-                 "url": "https://www.youtube.com/v/afK95S3UeyU"
-              }
- 
-            ]
- 
-          },
+          
           {
             "name": "Apex"
             ,"_children": [
