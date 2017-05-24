@@ -7,12 +7,12 @@ var treeData = [
         "name": "Temporada 1"
         ,"children": [
           {
-            "name": "Salesforce Technical Archtecture",
+            "name": "Pablo Valenzuela",
             "parent": "Architect",
             "_children": [
               {  
-                "name":   "Multi-tenant Architecture",
-                 "url": "https://www.youtube.com/v/jrKA3cJmoms"
+                "name":   "Pablo Valenzuela",
+                 "url": "https://www.youtube.com/watch?v=ZmzUksziaCg"
               }
  
             ]
