@@ -12,7 +12,7 @@ var treeData = [
             "_children": [
               {  
                 "name":   "Pablo Valenzuela",
-                 "url": "https://www.youtube.com/v/watch?v=ELk5WWI4DuQ"
+                 "url": "https://www.youtube.com/v/ELk5WWI4DuQ"
               }
  
             ]
@@ -22,7 +22,7 @@ var treeData = [
             ,"_children": [
              {  
                 "name":   "Ricardo Baeza",
-                 "url": "https://www.youtube.com/v/watch?v=HBtgHzXfcdg"
+                 "url": "https://www.youtube.com/v/HBtgHzXfcdg"
               },
 
               {  
