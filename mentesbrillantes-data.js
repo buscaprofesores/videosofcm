@@ -8,30 +8,30 @@ var treeData = [
             ,"_children": [
                {  
                 "name":   "Mentes Brillantes 1 - Pablo Valenzuela",
-                 "url": "https://www.youtube.com/watch?v=ZmzUksziaCg&list=PLxkqAm6-kLJh6xYS0b5ZxpcLXLsoKq74b&index=1&t=89s"
+                 "url": "https://www.youtube.com/v/ZmzUksziaCg"
               }
              ,{  
                 "name":   "Mentes Brillantes 1 - Ricardo Baeza",
-                 "url": "https://www.youtube.com/watch?v=36BXjU7qvPQ"
+                 "url": "https://www.youtube.com/v/36BXjU7qvPQ"
               },
               {  
                 "name":   "Mentes Brillantes 1 - Carlos Conca",
-                 "url": "https://www.youtube.com/watch?v=nRPOUSD1GU8"
+                 "url": "https://www.youtube.com/v/nRPOUSD1GU8"
               }
               ,
               {  
                 "name":   "Mentes Brillantes 1 - Eric Goles",
-                 "url": "https://www.youtube.com/watch?v=Nn0lXUqjhek"
+                 "url": "https://www.youtube.com/v/Nn0lXUqjhek"
               }
                ,
               {  
                 "name":   "Mentes Brillantes 1 - Nibaldo Inestroza",
-                 "url": "https://www.youtube.com/watch?v=lqfKONeRNg4"
+                 "url": "https://www.youtube.com/v/lqfKONeRNg4"
               }
                ,
               {  
                 "name":   "Mentes Brillantes 1 - Juan Asenjo",
-                 "url": "https://www.youtube.com/watch?v=bWYJC4BzU6Y"
+                 "url": "https://www.youtube.com/v/bWYJC4BzU6Y"
               },
               
              {
@@ -40,16 +40,16 @@ var treeData = [
              },
 
              { "name":    "Mentes Brillantes 1 - Mario Luxoro"
-             ,"url":   "https://www.youtube.com/watch?v=YEUwSUePz5k"
+             ,"url":   "https://www.youtube.com/v/YEUwSUePz5k"
              } , 
 
              { "name":    "Mentes Brillantes 1 - Fernando Mönckeberg"
-             ,"url":   "https://www.youtube.com/watch?v=BNas0FvnIyk"
+             ,"url":   "https://www.youtube.com/v/BNas0FvnIyk"
              },
           
               {
               "name":    "Mentes Brillantes 1 - Ramón Latorre"
-              ,"url":   "https://www.youtube.com/watch?v=voogNkB14gM"
+              ,"url":   "https://www.youtube.com/v/voogNkB14gM"
               }
  
 ]
@@ -65,31 +65,8 @@ var treeData = [
               }
               ,{  
                 "name":   "Mentes Brillantes 1 - Cecilia Hidalgo",
-                 "url": "https://www.youtube.com/watch?v=BENmwqYWRVM&list=PLxkqAm6-kLJh6xYS0b5ZxpcLXLsoKq74b&index=2"
-              }
-              ,{  
-                "name":   "Customer Journey",
-                 "url": "https://www.youtube.com/v/OUWwZcVA-mM"
-              }
-             ,{  
-                "name":   "Social Studio",
-                 "url": "https://www.youtube.com/v/27P6am1sIFQ"
+                 "url": "https://www.youtube.com/v/BENmwqYWRVM"
               },
-              {  
-                "name":   "Best Email Practices",
-                 "url": "https://www.youtube.com/v/UqRGfbPsTAI"
-              }
-              ,
-              {  
-                "name":   "Social Best Practices for Events",
-                 "url": "https://www.youtube.com/v/hDjqBEy-a4M"
-              }
-               ,
-              {  
-                "name":   "Deliverability Guide to the Inbox",
-                 "url": "https://www.youtube.com/v/NUEt3cZmSTo"
-              }
-               ,
               {  
                 "name":   "Achieve List Growth Results",
                  "url": "https://www.youtube.com/v/64ERoj3wpxw"
@@ -99,28 +76,11 @@ var treeData = [
     "name":    "DonorsChoose.org Customer Success"
      ,"url":   "https://www.youtube.com/v/v66RVWKwO2k"
     },
-
-    { "name":    "Stanley Black & Decker Customer Success"
-       ,"url":   "https://www.youtube.com/v/bSSpSnfjI28"
-    } , 
-
-    { "name":    "Live Nation Customer Success"
-       ,"url":   "https://www.youtube.com/v/rfpcOoRv7Ww"
-    },
-    {
-     "name":    "Unilever Customer Success"
-      ,"url":   "https://www.youtube.com/v/8EssPctyL0M"
-    },
-
-     {"name":    "Royal Bank of Canada Customer Success"
-      ,"url":    "https://www.youtube.com/v/lOqvGs8r0MI"
-     },
     {
       "name":   "Philips Customer Success"
        ,"url":   "https://www.youtube.com/v/_UrGfHAshZk"
-    }
-
-    ,{ "name":    "Microsoft Customer Success"
+    },
+   { "name":    "Microsoft Customer Success"
        ,"url":   "https://www.youtube.com/v/or16DB2qcXk"
     },
 
