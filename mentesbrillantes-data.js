@@ -36,7 +36,7 @@ var treeData = [
               
              {
                 "name":    "Mentes Brillantes 1 - María Teresa Ruiz"
-                ,"url":   "https://www.youtube.com/watch?v=LYzGmPmu0vg"
+                ,"url":   "https://www.youtube.com/v/LYzGmPmu0vg"
              },
 
              { "name":    "Mentes Brillantes 1 - Mario Luxoro"
@@ -76,22 +76,6 @@ var treeData = [
     "name":    "DonorsChoose.org Customer Success"
      ,"url":   "https://www.youtube.com/v/v66RVWKwO2k"
     },
-    {
-      "name":   "Philips Customer Success"
-       ,"url":   "https://www.youtube.com/v/_UrGfHAshZk"
-    },
-   { "name":    "Microsoft Customer Success"
-       ,"url":   "https://www.youtube.com/v/or16DB2qcXk"
-    },
-
-     {"name":    "Sony Playstation Customer Success"
-      ,"url":  "https://www.youtube.com/v/Pg08zNAqYDU"
-    },
-
-     {"name":    "Minacs Solutions Customer Success"
-       ,"url":  "https://www.youtube.com/v/V08WobkXA3Y"
-    },
-
     { "name":    "General Electric Customer Success"
        , "url":  "https://www.youtube.com/v/nHaBCcn-9BU"
     },
