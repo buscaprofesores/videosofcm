@@ -64,25 +64,40 @@ var treeData = [
                  "url": "https://www.youtube.com/v/joXU0YgKu4Q"
               }
               ,{  
-                "name":   "Mentes Brillantes 1 - Cecilia Hidalgo",
+                "name":   "Mentes Brillantes 2 - Cecilia Hidalgo",
                  "url": "https://www.youtube.com/v/BENmwqYWRVM"
               },
               {  
-                "name":   "Achieve List Growth Results",
-                 "url": "https://www.youtube.com/v/64ERoj3wpxw"
+                "name":   "Mentes Brillantes 2 - Juan Carlos Castilla",
+                 "url": "https://www.youtube.com/v/gKeUZgfPqC4"
               },
-              
-    {
-    "name":    "DonorsChoose.org Customer Success"
-     ,"url":   "https://www.youtube.com/v/v66RVWKwO2k"
-    },
-    { "name":    "General Electric Customer Success"
-       , "url":  "https://www.youtube.com/v/nHaBCcn-9BU"
-    },
-
-     {"name":    "News Corp Australia Customer Success"
-       ,"url":   "https://www.youtube.com/v/I3aefSZtd8w"
-    }
+              {  
+                "name":   "Mentes Brillantes 2 - Fernando Lund",
+                 "url": "https://www.youtube.com/v/5LjWiK58Qus"
+              },
+             {  
+                "name":   "Mentes Brillantes 2 - Mary Kalin",
+                 "url": "https://www.youtube.com/v/d8Rzc3g2_2I"
+              },
+              {  
+                "name":   "Mentes Brillantes 2 - Patricio Felmer",
+                 "url": "https://www.youtube.com/v/NbxWbgtr0Ok"
+              },
+              {  
+                "name":   "Mentes Brillantes 2 - Enrique Tirapegui",
+                 "url": "https://www.youtube.com/v/nKxFf4MMWbQ"
+              },
+              {  
+                "name":   "Mentes Brillantes 2 - Bernabé Santelices",
+                 "url": "https://www.youtube.com/v/1BqLqGkOkZ8"
+              },
+              {  
+                "name":   "Mentes Brillantes 2 - Andrés Weintraub",
+                 "url": "https://www.youtube.com/v/UoPAdtI8HRU"
+              },
+              {"name":    "Mentes Brillantes 2 - Ricardo Uauy"
+              ,"url":   "https://www.youtube.com/v/oNgIp0ifo0s"
+              }
 
  
 ]
